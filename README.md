@@ -75,5 +75,6 @@ Structure suggérée du dépôt
 
 captures d'écran
 -----------------------------
+Veuillez consulter le dossier /screen
 
 
